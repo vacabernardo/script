@@ -1,3 +1,3 @@
 window.onload = function(){
-    window.location.href = "https://www.example.com";
+    window.location.href = "#";
 }
